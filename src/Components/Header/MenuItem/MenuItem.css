@@ -1,0 +1,14 @@
+.menu-item {
+        padding: 10px 20px; /* Отступы вокруг текста кнопки */
+        font-size: 16px; /* Размер шрифта */
+        border: 2px solid #fff; /* Граница кнопки */
+        border-radius: 5px; /* Скругление углов */
+        background-color: transparent; /* Прозрачный фон */
+        cursor: pointer; /* Курсор при наведении */
+        transition: all 0.3s ease; /* Плавное изменение всех свойств при изменении состояния */
+}
+
+.menu-item:hover {
+    background-color: #fff; /* Фон при наведении */
+    color: #e19393; /* Цвет текста при наведении */
+  }

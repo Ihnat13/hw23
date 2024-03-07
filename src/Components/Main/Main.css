@@ -1,0 +1,10 @@
+.main {
+    display: flex;
+    height: 90vh;
+    width: 100%;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-end;
+    flex-wrap: nowrap;
+
+}
